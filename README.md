@@ -11,7 +11,7 @@
 <hr>
 
 <p align="center">
-I am a frontend-focused developer with growing full-stack and AI experience. I build responsive web applications using React and Next.js, develop backend systems with Node.js, Express, and MongoDB, and continue expanding my AI and NLP skills through hands-on projects in machine learning, transformers, and search-based problem solving.
+I am a Computer Science student specializing in Artificial Intelligence, with strong interests in frontend development, full-stack applications, and AI-driven problem solving. I build responsive web applications using React and Next.js, develop backend systems with Node.js, Express, and MongoDB, and continue expanding my AI and NLP skills through hands-on projects in machine learning, transformers, and search-based problem solving.
 </p>
 
 <p align="center">
