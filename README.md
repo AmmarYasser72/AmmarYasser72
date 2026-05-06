@@ -32,25 +32,3 @@ I am a frontend-focused developer building responsive web applications with a gr
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </div>
-
-<h1 align="center">🚀 Featured Projects</h1>
-
-<div align="center">
-  <a href="https://github.com/AmmarYasser72/Event-Management-System"><strong>EventX Studio</strong></a><br>
-  Full-stack event management platform with ticket booking, QR check-in, admin dashboard, and MongoDB backend.<br><br>
-
-  <a href="https://github.com/AmmarYasser72/MindGuard-frontend"><strong>MindGuard</strong></a><br>
-  React frontend for a mental health platform with patient and doctor dashboards, analytics, and chat flows.<br><br>
-
-  <a href="https://github.com/AmmarYasser72/Exclusive-E-Commerce"><strong>Exclusive E-Commerce</strong></a><br>
-  Next.js e-commerce storefront built with TypeScript and modern reusable UI components.<br><br>
-
-  <a href="https://github.com/AmmarYasser72/Movies-API"><strong>Movies API</strong></a><br>
-  TMDB-powered React app for browsing movies and TV shows with search, details, and responsive UI.
-</div>
-
-<h1 align="center">🌐 Connect</h1>
-
-<p align="center">
-  <a href="https://ammar-portfolio-red.vercel.app">Portfolio</a>
-</p>
