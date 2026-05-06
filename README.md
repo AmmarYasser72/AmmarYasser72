@@ -21,6 +21,15 @@ I am a Computer Science student specializing in Artificial Intelligence, with st
   <a href="https://github.com/AmmarYasser72/AmmarYasser72/raw/main/assets/cv/Ammar-Yasser-AI-CV.pdf">
     <img src="https://img.shields.io/badge/AI%20CV-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="AI CV" />
   </a>
+    <a href="mailto:ay109543@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-E63946?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/AmmarYasser72">
+    <img src="https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ammar-yasser2003">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <h1 align="center">Tech Stack</h1>
