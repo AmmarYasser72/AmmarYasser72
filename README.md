@@ -15,10 +15,10 @@ I am a Computer Science student specializing in Artificial Intelligence, with st
 </p>
 
 <p align="center">
-  <a href="https://github.com/AmmarYasser72/AmmarYasser72/raw/main/assets/cv/Ammar-Yasser-Web-CV.pdf">
+  <a href="https://github.com/AmmarYasser72/AmmarYasser72/raw/main/assets/cv/Ammar_Yasser_Abdallah_Full_Stack_Developer_CV.pdf">
     <img src="https://img.shields.io/badge/Web%20CV-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Web CV" />
   </a>
-  <a href="https://github.com/AmmarYasser72/AmmarYasser72/raw/main/assets/cv/Ammar-Yasser-AI-CV.pdf">
+  <a href="https://github.com/AmmarYasser72/AmmarYasser72/raw/main/assets/cv/Ammar_Yasser_Abdallah_AI_Engineer_CV.pdf">
     <img src="https://img.shields.io/badge/AI%20CV-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="AI CV" />
   </a>
     <a href="mailto:ay109543@gmail.com">
