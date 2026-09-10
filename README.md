@@ -31,7 +31,7 @@ Six starting points for exploring my work. Each links directly to the implementa
 
 | Project | What to explore | Technologies |
 | :--- | :--- | :--- |
-| **[EventX, Event Management](https://github.com/AmmarYasser72/Event-Management-System)** | Event and ticket workflows, QR check-in, role-specific dashboards, and a documented backend with automated tests. | React · Express · MongoDB |
+| **[EventX, Event Management](https://github.com/AmmarYasser72/Event-Management-System)** | Event and ticket workflows, QR check-in, role-specific dashboards, and a documented backend with automated tests. [View demo](https://event-management-system-3xxa.vercel.app) | React · Express · MongoDB |
 | **[E-Commerce Backend](https://github.com/AmmarYasser72/ECommerce-Backend-NEST)** | A modular API covering authentication, products, carts, wishlists, orders, and notifications. | NestJS · TypeScript · MongoDB |
 | **[MindGuard Web](https://github.com/AmmarYasser72/MindGuard_NextJS)** | A graduation-project frontend with patient and clinician dashboards, wellness tracking, and chat interfaces. [View demo](https://mind-guard-next-js.vercel.app) | Next.js · TypeScript · Socket.IO |
 | **[MindGuard AI](https://github.com/AmmarYasser72/MindGuard-Chatbot-and-AI_Models)** | A bilingual conversational assistant and wearable-signal models, with service architecture and evaluation documentation. Research prototype, not a clinical product. | Python · FastAPI · LangGraph |
