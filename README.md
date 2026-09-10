@@ -17,13 +17,15 @@
 
 ## What I build
 
-I'm a developer based in Alexandria, Egypt, working across responsive interfaces, backend APIs, and applied AI. My projects cover commerce, event operations, social features, and research prototypes.
+I'm a developer based in Alexandria, Egypt, with a 2026 Bachelor's Degree in Computers and Data Science from Alexandria University. I work across responsive interfaces, backend APIs, and applied AI, with professional experience in freelance development, technical instruction, full stack training, and AI automation.
 
 - **Web applications:** React and Next.js interfaces with reusable components, dashboards, forms, and clear loading and error states.
 - **Backend systems:** Node.js, Express, and NestJS APIs with authentication, resource ownership, validation, and MongoDB data models.
 - **Applied AI:** Python projects spanning conversational assistants, computer vision, machine learning, and NLP experiments.
 
 I care about understandable code, server-side authorization, reproducible setup, and documenting what a project actually does.
+
+My two CVs provide role-specific detail: use the **[Full Stack CV](https://github.com/AmmarYasser72/AmmarYasser72/raw/main/assets/cv/Ammar_Yasser_Abdallah_Full_Stack_Developer_CV.pdf)** for web, backend, and SaaS roles, or the **[AI CV](https://github.com/AmmarYasser72/AmmarYasser72/raw/main/assets/cv/Ammar_Yasser_Abdallah_AI_Engineer_CV.pdf)** for machine learning, NLP, computer vision, and applied AI roles.
 
 ## Selected projects
 
